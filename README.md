@@ -18,7 +18,7 @@ cargo install --path .
 Or clone and build:
 
 ```bash
-git clone https://github.com/yourusername/gaslighting-compiler.git
+git clone https://github.com/synthalorian/gaslighting-compiler.git
 cd gaslighting-compiler
 cargo build --release
 ```
