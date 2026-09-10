@@ -7,7 +7,7 @@ description = "A fake compiler that gaslights the user"
 repository = "https://github.com/yourusername/gaslighting-compiler"
 keywords = ["compiler", "gaslighting", "cli", "humor", "fake"]
 categories = ["command-line-utilities", "development-tools"]
-license = "MIT"
+license = "Apache-2.0"
 
 [dependencies]
 clap = { version = "4.5", features = ["derive"] }
