@@ -1,3 +1,5 @@
+![gaslighting-compiler](.github/preview.png)
+
 # Gaslighting Compiler
 
 > A fake compiler that gaslights the user. It doesn't actually compile anything — it just judges your code, your choices, and your life.
